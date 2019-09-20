@@ -1,0 +1,14 @@
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.dll.config
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.dll
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.pdb
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.dll
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Core.dll
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Core.pdb
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.xml
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csprojAssemblyReference.cache
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csproj.CopyComplete
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.dll
+C:\YashFulera_Training\Web API\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.pdb
